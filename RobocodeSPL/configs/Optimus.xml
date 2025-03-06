@@ -18,6 +18,10 @@
 	<feature automatic="unselected" name="WeakestSelectEnemy"/>
 	<feature manual="selected" name="StrongestSelectEnemy"/>
 	<feature automatic="unselected" name="ClosestSelectEnemy"/>
+	<feature automatic="selected" name="ColorSet"/>
+	<feature automatic="unselected" name="Red"/>
+	<feature manual="selected" name="Green"/>
+	<feature automatic="unselected" name="Blue"/>
 	<feature automatic="selected" name="Gun"/>
 	<feature automatic="unselected" name="MaximumPowerGun"/>
 	<feature automatic="unselected" name="NoFireGun"/>

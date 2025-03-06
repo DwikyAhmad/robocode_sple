@@ -5,8 +5,8 @@
 	<feature manual="selected" name="SpinningRadar"/>
 	<feature automatic="unselected" name="MouseRadar"/>
 	<feature automatic="selected" name="Targeting"/>
-	<feature manual="selected" name="HeadOnTargeting"/>
-	<feature automatic="unselected" name="LinearTargeting"/>
+	<feature automatic="unselected" name="HeadOnTargeting"/>
+	<feature manual="selected" name="LinearTargeting"/>
 	<feature automatic="unselected" name="MouseTargeting"/>
 	<feature automatic="selected" name="Movement"/>
 	<feature automatic="unselected" name="NoMovement"/>
@@ -15,11 +15,15 @@
 	<feature manual="selected" name="Cornering"/>
 	<feature automatic="unselected" name="Line"/>
 	<feature automatic="selected" name="SelectEnemy"/>
-	<feature manual="selected" name="WeakestSelectEnemy"/>
-	<feature automatic="unselected" name="StrongestSelectEnemy"/>
+	<feature automatic="unselected" name="WeakestSelectEnemy"/>
+	<feature manual="selected" name="StrongestSelectEnemy"/>
 	<feature automatic="unselected" name="ClosestSelectEnemy"/>
+	<feature automatic="selected" name="ColorSet"/>
+	<feature automatic="unselected" name="Red"/>
+	<feature automatic="unselected" name="Green"/>
+	<feature manual="selected" name="Blue"/>
 	<feature automatic="selected" name="Gun"/>
-	<feature automatic="unselected" name="MaximumPowerGun"/>
+	<feature manual="selected" name="MaximumPowerGun"/>
 	<feature automatic="unselected" name="NoFireGun"/>
-	<feature manual="selected" name="MouseClickGun"/>
+	<feature automatic="unselected" name="MouseClickGun"/>
 </configuration>
